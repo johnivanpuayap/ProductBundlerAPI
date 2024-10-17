@@ -1,0 +1,38 @@
+[
+    {
+        "productId": "T141TjxB0FcYrDGfRwco",
+        "name": "Pear",
+        "description": "Fresh Pears",
+        "price": 12,
+        "stock": 5,
+        "expiryDate": "2024-08-15T00:00:00.000",
+        "discount": 10
+    },
+    {
+        "productId": "bpGvuTHq9RQ11ievURhI",
+        "name": "Watermelon",
+        "description": "some watermelon",
+        "price": 128,
+        "stock": 10,
+        "expiryDate": "2024-08-12T00:00:00.000",
+        "discount": 20
+    },
+    {
+        "productId": "hfLOytmHTRJRJwiHBg5t",
+        "name": "Orange",
+        "description": "Fresh Orange",
+        "price": 12,
+        "stock": 10,
+        "expiryDate": "2024-08-31T00:00:00.770",
+        "discount": 10
+    },
+    {
+        "productId": "oJwTibRIuXui80gwffv6",
+        "name": "Fuji Apples",
+        "description": "Fuji",
+        "price": 16,
+        "stock": 5,
+        "expiryDate": "2024-08-24T00:00:00.119",
+        "discount": 10
+    }
+]
