@@ -69,7 +69,14 @@ WSGI_APPLICATION = "unshelf_ai.wsgi.application"
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
 DATABASES = {
-    'default': dj_database_url.config(default=DATABASE_URL),
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'unshelf',
+        'USER': 'unshelf_user',
+        'PASSWORD': 'T0EtcM7JVjFkzJxBxdc8Ty2Df6IeutjC',
+        'HOST': 'dpg-cs8t123qf0us738ffbog-a',
+        'PORT': '5432',
+    }
 }
 
 # Password validation
